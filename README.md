@@ -87,3 +87,5 @@ This project might look small, but it gave me great confidence in using sockets,
 All the required files are included and tested. You can directly run it and see the output. I hope this makes it easy for the reviewer to understand what the project does, how it works, and how to run it.
 
 ## final output
+
+![Image](https://github.com/user-attachments/assets/4696a375-9c94-4db6-b3f3-dc05823bcda9)
