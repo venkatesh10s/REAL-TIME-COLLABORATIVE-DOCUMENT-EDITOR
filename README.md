@@ -33,22 +33,6 @@ This whole communication is handled by the backend server which listens for thes
 
 To keep the project clean and understandable, I have only included the necessary files. Many of the default files from the React app (like App.js, logo.svg, etc.) were removed since we don’t need them.
 
-# Here is the structure of the project:
-
-Task3CollaborativeEditor/
-├── server.js              # Backend server with socket logic
-├── package.json           # Backend dependencies
-├── client/
-│   ├── package.json       # Frontend dependencies
-│   ├── public/
-│   │   └── index.html     # Main HTML for React
-│   ├── src/
-│   │   ├── index.js       # Renders the TextEditor component
-│   │   ├── TextEditor.js  # Main collaborative editor logic
-│   │   └── TextEditor.css # Styling for the editor
-
-This structure keeps the backend and frontend separate and easy to manage.
-
 ## How to Run the Project
 
 To test this project on your local system, follow these steps:
